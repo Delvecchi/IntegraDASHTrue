@@ -1,0 +1,29 @@
+
+
+/* ERROS HOME */
+
+.donut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.donut h2 {
+    color: #000000;
+
+    margin-bottom: 50px;
+}
+
+.buttons-container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.buttons-container button {
+    padding: 0 10px;
+    margin: 0 2%;
+    color: #ffffff;
+    background: #1B77C2;
+}
